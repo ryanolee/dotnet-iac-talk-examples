@@ -1,0 +1,7 @@
+name: openhue
+description: Example openhue app
+runtime: dotnet
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: csharp

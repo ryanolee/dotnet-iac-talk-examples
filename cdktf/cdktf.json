@@ -1,0 +1,11 @@
+{
+  "language": "csharp",
+  "app": "dotnet run -p OpenHueCSharpExample.csproj",
+  "projectId": "39342017-d22b-416f-8e1c-aa68796be07c",
+  "sendCrashReports": "false",
+  "terraformProviders": [
+    "ryanolee/openhue@~>1"
+  ],
+  "terraformModules": [],
+  "context": {}
+}
