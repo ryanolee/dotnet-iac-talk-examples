@@ -1,5 +1,5 @@
-name: openhue
-description: Example openhue app
+name: Brumdotnet
+description: A minimal C# Pulumi program
 runtime: dotnet
 config:
   pulumi:tags:
